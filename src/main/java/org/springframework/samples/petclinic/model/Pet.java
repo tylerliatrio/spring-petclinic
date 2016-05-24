@@ -13,6 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+//This comment should trigger a build
+
 package org.springframework.samples.petclinic.model;
 
 import java.util.ArrayList;
