@@ -32,7 +32,7 @@ import org.springframework.format.annotation.DateTimeFormat;
  * @author Ken Krebs
  */
 @Entity
-@Table(name = "visits")asdfasdf
+@Table(name = "visits")
 public class Visit extends BaseEntity {
 
     /**
