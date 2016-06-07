@@ -416,7 +416,7 @@
       </snapshotRepository>
       <repository>
         <id>deployment</id>
-        <url>http://127.0.0.1:8081/nexus/content/repository/releases/</url>
+        <url>http://127.0.0.1:8081/nexus/content/repositories/releases/</url>
       </repository>
     </distributionManagement>
 
