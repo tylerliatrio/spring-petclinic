@@ -412,11 +412,11 @@
     <distributionManagement>
       <snapshotRepository>
         <id>snapshots</id>
-        <url>http://52.40.221.73:8081/nexus/content/repositories/snapshots</url>
+        <url>http://ec2-50-112-222-234.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/snapshots</url>
       </snapshotRepository>
       <repository>
         <id>deployment</id>
-        <url>http://52.40.221.73:8081/nexus/content/repositories/releases/</url>
+        <url>http://ec2-50-112-222-234.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/releases/</url>
       </repository>
     </distributionManagement>
 
