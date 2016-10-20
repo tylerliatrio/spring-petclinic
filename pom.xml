@@ -411,11 +411,11 @@
     <distributionManagement>
       <snapshotRepository>
         <id>snapshots</id>
-        <url>http://ec2-35-161-90-212.us-west-2.compute.amazonaws.com:8081/repository/maven-snapshots</url>
+        <url>http://ec2-35-161-90-212.us-west-2.compute.amazonaws.com:8081/repository/maven-snapshots/</url>
       </snapshotRepository>
       <repository>
         <id>deployment</id>
-        <url>http://ip-172-31-29-92.us-west-2.compute.internal:8081/repository/maven-releases</url>
+        <url>http://ip-172-31-29-92.us-west-2.compute.internal:8081/repository/maven-releases/</url>
       </repository>
     </distributionManagement>
 
