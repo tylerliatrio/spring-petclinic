@@ -411,7 +411,7 @@
     <distributionManagement>
       <snapshotRepository>
         <id>snapshots</id>
-        <url>http://localhost:8081/artifactory/libs-snapshot-local/</url>
+        <url>http://localhost:8081/webapp/artifactory/libs-snapshot-local/</url>
       </snapshotRepository>
       <repository>
         <id>deployment</id>
