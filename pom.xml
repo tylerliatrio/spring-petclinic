@@ -410,7 +410,7 @@
 
     <distributionManagement>
       <snapshotRepository>
-        <id>snapshots</id>
+        <id>admin</id>
         <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
       </snapshotRepository>
       <repository>
